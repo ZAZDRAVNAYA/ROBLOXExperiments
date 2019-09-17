@@ -12,5 +12,4 @@ Come another major release, the compiler may need to be updated or succeeded to 
 Hopefully, the many open-source tools that are written in C will be made available to use natively in Lua. Unfortunately, I don't think I'll ever get to the point of writing something GCC-esque, but perhaps this will set the stage for more complex compilers in the future.
 I really want to see some advanced libraries interfacing with Lua through my (future) compiler.
 Imagine compiling the entirety of libavcodec in Lua bytecode!
-That'd be pretty damn cool.
-This is definitely a goal of this project. You bet I'll post a release if I actually manage to do this.
+(You bet I'll post a release if I actually manage to do this.)
