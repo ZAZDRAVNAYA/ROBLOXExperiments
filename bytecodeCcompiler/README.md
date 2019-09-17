@@ -1,0 +1,2 @@
+# C compiler experiment
+Albeit not directly ROBLOX-related, this experiment seeks to create a C compiler that compiles to Lua bytecode. This could be useful for porting real applications to a Lua VM within ROBLOX. Ideally, this will be able to compile itself, essentially creating a C compiler in and for Lua bytecode.
